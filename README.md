@@ -1,2 +1,3 @@
 # QR-CODE-GENERATOR
 A simple QR code renerator using HTML,CSS 7 JavaScript.......
+![My Image](https://raw.githubusercontent.com/YourUsername/YourRepo/main/images/myimage.png)
